@@ -3,15 +3,18 @@
 <meta charset="utf-8" />
 <style>
 body {background-color:black;
-     
+     ,dxs"
    }
-p {color:Floralwhite;
+p {
+     color: Floralwhite;
    
   }
-h1 {color:Floralwhite;
-    text-aligne:center;
+h1 {
+    color: Floralwhite;
+    text-aligne: center;
 }
-h3 {color:Floralwhite;
+h3 {
+    color: Floralwhite;
     text-aligne:center;
 }
 </style>
