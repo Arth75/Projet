@@ -4,7 +4,7 @@
 <style>
 table, th, td {
   border:1px solid black;
-  color: black;
+  color: Floralwhite;
   background-color:black;
 }
 body {background-color:black;
