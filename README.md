@@ -13,6 +13,9 @@ h1 {
     color: Floralwhite;
     text-aligne: center;
 }
+h2 { 
+    color: Floralwhite;
+}
 h3 {
     color: Floralwhite;
     text-aligne:center;
