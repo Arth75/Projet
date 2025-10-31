@@ -2,6 +2,9 @@
 <head>
 <meta charset="utf-8" />
 <style>
+table, th, td {
+  border:1px solid black;
+}
 body {background-color:black;
      
    }
@@ -24,10 +27,30 @@ h3 {
 </head>
 <h1>Portfolio : Arthur Lee</h1>
 <h2> Elements personnels</h2>
-<p style="border:2px solid Floralwhite;"> Valeurs : curiosité, esprit cirtique, respect, honnêteté <br>
-                                          Compétences : esprit d'équipe, adaptabilité, patience <br>
-                                          Centres d'intérêts : technologies, relation avec les autres, créativité et culture <br>
-</p>
+<table style="width:100%">
+     <tr>
+          <th> Valeurs</th>
+          <th>Compétences</th>
+          <th> Centres d'intérêts</th>
+     </tr>
+     <tr>
+          <th>curiosité</th>
+          <th>esprit d'équipe</th>
+          <th>technologies </th>
+     </tr>
+     <tr>
+          <th>esprit cirtique</th>
+          <th>adaptabilité</th>
+          <th>relation avec les autres</th>
+     </tr>
+     <tr> 
+          <th>honnêteté</th>
+          <th>patience</th>
+          <th>créativité et culture</th>
+     </tr>
+                                          
+</table>
+
 <h3>Un peu sur moi</h3>
 <p style="border:2px solid Floralwhite;">Je me nomme Arthur Lee Guianvarch.J'ai 18 ans, né le 6 mars 2007, j'étudie en ce moment au BTS SIO de la Madone. J'ai étudié au lycée Charles de Foucauld spécialité STMG.<br>
 J'ai décidé d'intégrer un BTS SIO car je me retrouve plus dans l'univers de l'informatique.<br> Je suis passioné de jeux vidéo et majoritairement présent le monde de la science fiction, que se soit dans la lecture que dans les activitées manuels. <br>
