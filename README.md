@@ -7,8 +7,11 @@ table, th, td {
   color: Floralwhite;
   background-color:black;
 }
-body {background-color:black;
-     
+th { 
+  color: blue;
+  }
+body {
+  background-color:black; 
    }
 p {
      color: Floralwhite;
@@ -31,7 +34,7 @@ h3 {
 <h2> Elements personnels</h2>
 <table style="width:100%">
      <tr>
-          <th style="color:blue;"> Valeurs</th>
+          <th> Valeurs</th>
           <th>Compétences</th>
           <th> Centres d'intérêts</th>
      </tr>
