@@ -36,22 +36,22 @@ h3 {
      <tr>
           <th> Valeurs</th>
           <th>Compétences</th>
-          <th> Centres d'intérêts</th>
+          <th>Centres d'intérêts</th>
      </tr>
      <tr>
           <td>Curiosité: Lors d'un voyage linguistique à Malte<br>j'ai pris beaucoup de plaisir à<br>découvrir de nouvelles personnes.</td>
-          <td>esprit d'équipe</td>
-          <td>technologies </td>
+          <td>Esprit d'équipe: Je sais m'adapter et être à <br>l'écoute quand il faut faire un travail en équipe./td>
+          <td>Technologies: </td>
      </tr>
      <tr>
-          <td>esprit cirtique</td>
-          <td>adaptabilité</td>
-          <td>relation avec les autres</td>
+          <td>Esprit cirtique:</td>
+          <td>Adaptabilité:</td>
+          <td>Relation avec les autres:</td>
      </tr>
      <tr> 
-          <td>honnêteté</td>
-          <td>patience</td>
-          <td>créativité et culture</td>
+          <td>Honnêteté:</td>
+          <td>Patience:</td>
+          <td>Créativité et culture:</td>
      </tr>
                                           
 </table>
