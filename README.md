@@ -39,7 +39,7 @@ h3 {
           <th> Centres d'intérêts</th>
      </tr>
      <tr>
-          <td>curiosité: Lors d'un voyage linguistique à Malte<br>j'ai pris beaucoup de plaisir à découvrir de nouvelles personnes.</td>
+          <td>curiosité: Lors d'un voyage linguistique à Malte<br>j'ai pris beaucoup de plaisir à<br>découvrir de nouvelles personnes.</td>
           <td>esprit d'équipe</td>
           <td>technologies </td>
      </tr>
