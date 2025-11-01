@@ -30,8 +30,8 @@ h3 {
 <h1>Portfolio : Arthur Lee</h1>
 <h2> Elements personnels</h2>
 <table style="width:100%">
-     <tr style="color:blue;">
-          <th> Valeurs</th>
+     <tr>
+          <th style="color:blue;"> Valeurs</th>
           <th>Compétences</th>
           <th> Centres d'intérêts</th>
      </tr>
