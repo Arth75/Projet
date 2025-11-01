@@ -39,7 +39,7 @@ h3 {
           <th>Centres d'intérêts</th>
      </tr>
      <tr>  
-          <td>Curiosité:Toujours à la recherche de nouvelles<br>choses à découvrir.</td>
+          <td>Curiosité:Toujours à la recherche de <br>nouvelles choses à découvrir.</td>
           <td>Esprit d'équipe: Je collabore efficacement et en <br>ayant une bonne communication.</td>
           <td>Technologies: un</td>
      </tr>
