@@ -36,19 +36,19 @@ h3 {
           <th> Centres d'intérêts</th>
      </tr>
      <tr>
-          <th>curiosité</th>
-          <th>esprit d'équipe</th>
-          <th>technologies </th>
+          <td>curiosité</td>
+          <td>esprit d'équipe</td>
+          <td>technologies </td>
      </tr>
      <tr>
-          <th>esprit cirtique</th>
-          <th>adaptabilité</th>
-          <th>relation avec les autres</th>
+          <td>esprit cirtique</td>
+          <td>adaptabilité</td>
+          <td>relation avec les autres</td>
      </tr>
      <tr> 
-          <th>honnêteté</th>
-          <th>patience</th>
-          <th>créativité et culture</th>
+          <td>honnêteté</td>
+          <td>patience</td>
+          <td>créativité et culture</td>
      </tr>
                                           
 </table>
