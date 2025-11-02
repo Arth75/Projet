@@ -41,7 +41,7 @@ h3 {
      <tr>  
           <td>Curiosité:Toujours à la recherche de <br>nouvelles choses à découvrir.</td>
           <td>Esprit d'équipe: Je collabore efficacement et en <br>ayant une bonne communication.</td>
-          <td>Technologies: un</td>
+          <td>Technologies: Connaissance dans la programmation et l'univers du jeux vidéo</td>
      </tr>
      <tr>
           <td>Esprit cirtique: Une analyse toujours approfondi des choses</td>
