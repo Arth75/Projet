@@ -8,7 +8,7 @@ table, th, td {
   background-color:black;
 }
 th { 
-  color: blue;
+  color: yellow;
   }
 body {
   background-color:black; 
