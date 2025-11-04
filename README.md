@@ -49,7 +49,7 @@ h3 {
           <td>Relation avec les autres: Une sociabilité qui me<br>permet une bonne interaction avec les autres.</td>
      </tr> 
      <tr> 
-          <td>Honnêteté:</td>
+          <td>Honnêteté: Toujours </td>
           <td>Patience:</td>
           <td>Créativité et culture:</td>
      </tr>
