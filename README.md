@@ -45,8 +45,8 @@ h3 {
      </tr>
      <tr>
           <td>Esprit cirtique: Une analyse toujours approfondi des choses</td>
-          <td>Adaptabilité: </td>
-          <td>Relation avec les autres:</td>
+          <td>Adaptabilité: Je sais m'adapter à mon environnement.</td>
+          <td>Relation avec les autres: Une sociabilité qui me permet une <br>bonne interaction avec les autres.</td>
      </tr> 
      <tr> 
           <td>Honnêteté:</td>
