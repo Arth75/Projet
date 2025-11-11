@@ -1,1 +1,249 @@
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Arthur Lee-Guianvarch | Développeur Web</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+<body>
+<style> 
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', Arial, sans-serif;
+}
 
+body {
+  background-color: #e8e6ff;
+  color: #222;
+}
+
+.cv-container {
+  display: flex;
+  max-width: 900px;
+  margin: 40px auto;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.sidebar {
+  width: 30%;
+  background-color: #dcd8ff;
+  padding: 25px 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.photo img {
+  width: 100%;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.sidebar section {
+  width: 100%;
+  margin-bottom: 30px;
+}
+
+.sidebar h3 {
+  border-bottom: 2px solid #8b83ff;
+  font-size: 15px;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.sidebar p, 
+.sidebar li {
+  font-size: 14px;
+  margin-bottom: 8px;
+}
+
+.sidebar ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.sidebar i {
+  color: #4b47ff;
+  margin-right: 8px;
+}
+
+.main-content {
+  width: 70%;
+  padding: 40px;
+  background: #fff;
+}
+
+header h1 {
+  font-size: 30px;
+  font-weight: 700;
+  color: #262262;
+  line-height: 1.2;
+}
+
+header h2 {
+  font-size: 16px;
+  font-weight: 500;
+  color: #8b83ff;
+  margin-top: 8px;
+}
+
+.about {
+  margin: 20px 0;
+  font-size: 15px;
+  line-height: 1.6;
+}
+
+.main-content h3 {
+  font-size: 16px;
+  color: #262262;
+  margin-top: 25px;
+  border-bottom: 2px solid #8b83ff;
+  display: inline-block;
+  padding-bottom: 3px;
+}
+
+.exp-item {
+  margin: 15px 0;
+}
+
+.exp-item h4 {
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.exp-item .date {
+  float: right;
+  color: #777;
+  font-size: 14px;
+}
+
+.exp-item p {
+  font-size: 14px;
+  margin: 4px 0;
+  color: #444;
+}
+
+.expertise ul {
+  margin-top: 10px;
+  padding-left: 18px;
+}
+
+.expertise li {
+  font-size: 14px;
+  margin-bottom: 6px;
+}
+
+@media (max-width: 768px) {
+  .cv-container {
+    flex-direction: column;
+  }
+
+  .sidebar, .main-content {
+    width: 100%;
+  }
+
+  .main-content {
+    padding: 25px;
+  }
+
+  header h1 {
+    font-size: 24px;
+  }
+}
+</style>
+
+  <div class="cv-container">
+
+    
+    <aside class="sidebar">
+      <div class="photo">
+        <img src="https://i.imgur.com/N9K8pYV.jpg" alt="Photo de profil">
+      </div>
+
+      <section class="contact">
+        <h3>CONTACT</h3>
+        <p><i class="fa-solid fa-envelope"></i> arthur.leeguianvarch@gmail.com</p>
+        <p><i class="fa-solid fa-phone"></i> 07 89 50 47 89</p>
+        <p><i class="fa-solid fa-location-dot"></i> Paris 9ème</p>
+      </section>
+
+      <section class="competences">
+        <h3>COMPÉTENCES</h3>
+        <p><strong>Langages maîtrisés</strong></p>
+        <ul>
+          <li>HTML : niveau intermédiaire</li>
+          <li>CSS : niveau intermédiaire</li>
+          <li>JavaScript : niveau débutant</li>
+          <li>Python : niveau débutant</li>
+        </ul>
+
+        <p><strong>Langues parlées</strong></p>
+        <ul>
+          <li>Anglais : niveau intermédiaire</li>
+          <li>Français : niveau natif</li>
+        </ul>
+      </section>
+
+      <section class="formation">
+        <h3>FORMATION</h3>
+        <p><strong>BTS SIO</strong><br>
+        En cours<br>
+        Paris 18<br>
+        <em>2022 – 2025</em></p>
+
+        <p><strong>BACCALAURÉAT</strong><br>
+        <em>2022</em></p>
+      </section>
+    </aside>
+
+   
+    <main class="main-content">
+      <header>
+        <h1>ARTHUR<br>LEE-GUIANVARCH</h1>
+        <h2>DÉVELOPPEUR WEB</h2>
+      </header>
+
+      <section class="about">
+        <p>
+          Je suis en BTS SIO pour commencer mon apprentissage dans l’informatique et le développement web. 
+          J’ai pour projet d’aller en école d’ingénieur.
+        </p>
+      </section>
+
+      <section class="experience">
+        <h3>EXPÉRIENCE</h3>
+
+        <div class="exp-item">
+          <h4>BACCALAURÉAT</h4>
+          <span class="date">2022–2025</span>
+          <p><em>Paris 18</em></p>
+          <p>J’ai effectué mon Bac en STMG spécialité SIG avec la mention assez bien.</p>
+        </div>
+
+        <div class="exp-item">
+          <h4>STAGE</h4>
+          <span class="date">2021</span>
+          <p><em>Paris 12</em></p>
+          <p>RATP, pendant une semaine je me suis intéressé et engagé dans la découverte de ce secteur.</p>
+        </div>
+      </section>
+
+      <section class="expertise">
+        <h3>EXPERTISE</h3>
+        <ul>
+          <li>Maîtrise de nombreux langages de programmation</li>
+          <li>Compétences sur la création d’un site web</li>
+          <li>Gestion d’équipe et travail collaboratif</li>
+          <li>Bonne compréhension des bases de données</li>
+          <li>Utilisation des outils bureautiques (Word, Excel, PowerPoint)</li>
+        </ul>
+      </section>
+    </main>
+  </div>
+
+</body>
+</html>
