@@ -41,7 +41,7 @@
       <h3>Qui je suis et ce que je fais</h3>
 
    <div class="buttons">
-        <a href="#" class="btn primary">CV</a>
+        <a href="README.md" class="btn primary">CV</a>
         <a href="#" class="btn secondary">PROJETS</a>
       </div>
 
