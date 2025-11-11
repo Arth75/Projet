@@ -16,7 +16,6 @@
   font-family: 'Helvetica Neue', Arial, sans-serif;
 }
 
-/* --- HEADER --- */
 header {
   display: flex;
   justify-content: space-between;
@@ -63,13 +62,13 @@ nav a:hover {
   color: #0050ff;
 }
 
-/* --- MAIN LAYOUT --- */
+
 main {
   display: flex;
   min-height: calc(100vh - 80px);
 }
 
-/* --- SIDEBAR --- */
+
 .sidebar {
   width: 35%;
   background: #f2e8df;
@@ -122,7 +121,6 @@ main {
   color: #0050ff;
 }
 
-/* --- CONTENT --- */
 .content {
   width: 65%;
   padding: 100px 80px;
@@ -187,7 +185,7 @@ main {
     <div class="logo">
       <span class="square"></span>
       <h1>Jade Aubrey</h1>
-      <p>/ CHEF DE PROJET</p>
+      <p>/ Développeur Web</p>
     </div>
     <nav>
       <a href="#">À PROPOS DE MOI</a>
@@ -201,7 +199,7 @@ main {
     <section class="sidebar">
       <img src="https://i.imgur.com/Vs6wj7U.png" alt="Photo de profil" class="profile-img">
       <h2>Jade<br><span>Aubrey</span></h2>
-      <p class="title">CHEF DE PROJET</p>
+      <p class="title">DEVELOPPEUR WEB</p>
       <div class="socials">
         <a href="#"><i class="fab fa-facebook-f"></i></a>
         <a href="#"><i class="fab fa-twitter"></i></a>
@@ -212,12 +210,7 @@ main {
 
    <section class="content">
       <h1>Hello</h1>
-      <h3>Qui je suis et ce que je fais</h3>
-
-   <div class="buttons">
-        <a href="Page d'acceuil.md" class="btn primary">CV</a>
-        <a href="#" class="btn secondary">PROJETS</a>
-      </div>
+      <h3>Je m'appel Arthur Lee, je suis un étudiant en BTS SIO</h3>
 
   <p class="text">
         Paragraphe. Cliquez ici pour ajouter votre propre texte. Cliquez sur « Modifier Texte » 
