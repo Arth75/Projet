@@ -1,64 +1,59 @@
-<html>
+<!DOCTYPE html>
+<html lang="fr">
 <head>
-<meta charset="utf-8" />
-<style>
-table, th, td {
-  border:1px solid black;
-  color: Floralwhite;
-  background-color:black;
-}
-th { 
-  color: yellow;
-  }
-body {
-  background-color:black; 
-   }
-p {
-     color: Floralwhite;
-   
-  }
-h1 {
-    color: Floralwhite;
-    text-aligne: center;
-}
-h2 { 
-    color: Floralwhite;
-}
-h3 {
-    color: Floralwhite;
-    text-aligne:center;
-}
-</style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jade Aubrey | Chef de Projet</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 </head>
-<h1>Portfolio : Arthur Lee</h1>
-<h2> Elements personnels</h2>
-<table style="width:100%">
-     <tr>
-          <th>Valeurs</th>
-          <th>Compétences</th>
-          <th>Centres d'intérêts</th>
-     </tr>
-     <tr>  
-          <td>Curiosité:Toujours à la recherche de <br>nouvelles choses à découvrir.</td>
-          <td>Esprit d'équipe: Je collabore efficacement et en <br>ayant une bonne communication.</td>
-          <td>Technologies: Connaissance dans la programmation et l'univers du jeux vidéo</td>
-     </tr>
-     <tr>
-          <td>Esprit cirtique: Une analyse toujours approfondi des choses</td>
-          <td>Adaptabilité: Je sais m'adapter à mon environnement.</td>
-          <td>Relation avec les autres: Une sociabilité qui me<br>permet une bonne interaction avec les autres.</td>
-     </tr> 
-     <tr> 
-          <td>Honnêteté: Toujours </td>
-          <td>Patience:</td>
-          <td>Créativité et culture:</td>
-     </tr>
-                                          
-</table>
+<body>
 
-<h3>Un peu sur moi</h3>
-<p style="border:2px solid Floralwhite;">Je me nomme Arthur Lee Guianvarch.J'ai 18 ans, né le 6 mars 2007, j'étudie en ce moment au BTS SIO de la Madone. J'ai étudié au lycée Charles de Foucauld spécialité STMG.<br>
-J'ai décidé d'intégrer un BTS SIO car je me retrouve plus dans l'univers de l'informatique.<br> Je suis passioné de jeux vidéo et majoritairement présent le monde de la science fiction, que se soit dans la lecture que dans les activitées manuels. <br>
-Je suis quelqu'un  <br></p>
-<p>J'ai choisi de prendre la veille technologique. La veille technologique vise à suivre les évolutions scientifiques, techniques et industrielles d'un secteur donné. Si la veille technologique est mon choix c'est par ce qu'elle rentre en adéquation avec mon metiers et mes objectifs futurs. </p>
+  <header>
+    <div class="logo">
+      <span class="square"></span>
+      <h1>Jade Aubrey</h1>
+      <p>/ CHEF DE PROJET</p>
+    </div>
+    <nav>
+      <a href="#">À PROPOS DE MOI</a>
+      <a href="#">CV</a>
+      <a href="#">PROJETS</a>
+      <a href="#">CONTACT</a>
+    </nav>
+  </header>
 
+  <main>
+    <section class="sidebar">
+      <img src="https://i.imgur.com/Vs6wj7U.png" alt="Photo de profil" class="profile-img">
+      <h2>Jade<br><span>Aubrey</span></h2>
+      <p class="title">CHEF DE PROJET</p>
+      <div class="socials">
+        <a href="#"><i class="fab fa-facebook-f"></i></a>
+        <a href="#"><i class="fab fa-twitter"></i></a>
+        <a href="#"><i class="fab fa-linkedin-in"></i></a>
+        <a href="#"><i class="fab fa-instagram"></i></a>
+      </div>
+    </section>
+
+   <section class="content">
+      <h1>Hello</h1>
+      <h3>Qui je suis et ce que je fais</h3>
+
+   <div class="buttons">
+        <a href="Page d'acceuil.md" class="btn primary">CV</a>
+        <a href="#" class="btn secondary">PROJETS</a>
+      </div>
+
+  <p class="text">
+        Paragraphe. Cliquez ici pour ajouter votre propre texte. Cliquez sur « Modifier Texte » 
+        ou double-cliquez ici pour ajouter votre contenu et personnaliser les polices.
+      </p>
+      <p class="text">
+        Relatez ici votre parcours et présentez votre activité à vos visiteurs.
+      </p>
+    </section>
+  </main>
+
+</body>
+</html>
