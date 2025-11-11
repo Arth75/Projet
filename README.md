@@ -188,8 +188,8 @@ main {
       <p>/ Développeur Web</p>
     </div>
     <nav>
-      <a href="#">À PROPOS DE MOI</a>
-      <a href="Page d'acceuil.html">CV</a>
+      <a href="Aproposdemoi.html">À PROPOS DE MOI</a>
+      <a href="">CV</a>
       <a href="#">PROJETS</a>
       <a href="#">CONTACT</a>
     </nav>
