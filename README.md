@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Jade Aubrey | Chef de Projet</title>
+  <title>Arthur Lee | Développeur Web</title>
   <link rel="stylesheet" href="style.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 </head>
@@ -184,7 +184,7 @@ main {
   <header>
     <div class="logo">
       <span class="square"></span>
-      <h1>Jade Aubrey</h1>
+      <h1>Arthur Lee</h1>
       <p>/ Développeur Web</p>
     </div>
     <nav>
@@ -198,7 +198,7 @@ main {
   <main>
     <section class="sidebar">
       <img src="https://i.imgur.com/Vs6wj7U.png" alt="Photo de profil" class="profile-img">
-      <h2>Jade<br><span>Aubrey</span></h2>
+      <h2>Arthur<br><span>Lee</span></h2>
       <p class="title">DEVELOPPEUR WEB</p>
       <div class="socials">
         <a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -210,7 +210,7 @@ main {
 
    <section class="content">
       <h1>Hello</h1>
-      <h3>Je m'appel Arthur Lee, je suis un étudiant en BTS SIO</h3>
+      <h3>Je m'appelle Arthur Lee, je suis un étudiant en BTS SIO</h3>
 
   <p class="text">
         Paragraphe. Cliquez ici pour ajouter votre propre texte. Cliquez sur « Modifier Texte » 
