@@ -189,7 +189,7 @@ main {
     </div>
     <nav>
       <a href="Aproposdemoi.html">À PROPOS DE MOI</a>
-      <a href="">CV</a>
+      <a href="CV.html">CV</a>
       <a href="#">PROJETS</a>
       <a href="#">CONTACT</a>
     </nav>
