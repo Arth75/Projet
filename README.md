@@ -197,7 +197,7 @@ main {
 
   <main>
     <section class="sidebar">
-      <img src="https://i.imgur.com/Vs6wj7U.png" alt="Photo de profil" class="profile-img">
+      <img src="Photo_ID_Arthur.webp" alt="Photo de profil" class="profile-img">
       <h2>Arthur<br><span>Lee</span></h2>
       <p class="title">DEVELOPPEUR WEB</p>
       <div class="socials">
