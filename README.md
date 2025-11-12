@@ -213,11 +213,8 @@ main {
       <h3>Je m'appelle Arthur Lee, je suis un étudiant en BTS SIO</h3>
 
   <p class="text">
-        Paragraphe. Cliquez ici pour ajouter votre propre texte. Cliquez sur « Modifier Texte » 
-        ou double-cliquez ici pour ajouter votre contenu et personnaliser les polices.
       </p>
       <p class="text">
-        Relatez ici votre parcours et présentez votre activité à vos visiteurs.
       </p>
     </section>
   </main>
