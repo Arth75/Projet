@@ -191,6 +191,7 @@ main {
       <a href="Aproposdemoi.html">À PROPOS DE MOI</a>
       <a href="CV.html">CV</a>
       <a href="#">PROJETS</a>
+      <a href="">Veille Technologique</a>
       <a href="#">CONTACT</a>
     </nav>
   </header>
