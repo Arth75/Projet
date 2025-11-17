@@ -58,7 +58,7 @@ nav a:first-child {
 }
 
 nav a:hover {
-  color: #0050ff;
+  color: DarkTurquoise;
 }
 
 
