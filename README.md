@@ -32,7 +32,7 @@ header {
 .logo .square {
   width: 15px;
   height: 15px;
-  background: #0050ff;
+  background: DarkTurquoise;
 }
 
 .logo h1 {
@@ -42,7 +42,7 @@ header {
 
 .logo p {
   font-size: 15px;
-  color: DarkTurquoise;
+  color: Black;
 }
 
 nav a {
