@@ -191,6 +191,7 @@ main {
       <a href="CV.html">CV</a>
       <a href="Epreuve5.html">PROJETS</a>
       <a href="Veilletechnologique.html">VEILLE TECHNOLOGIQUE</a>
+      <a href="Stage.html">Stage</a>
     </nav>
   </header>
 
